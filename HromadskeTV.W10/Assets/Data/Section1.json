@@ -1,0 +1,44 @@
+[
+  {
+    "Type": "Page",
+    "Title": "Станко Настя",
+    "Icon": "/Assets/DataImages/menuitem-icon.png",
+    "Target": "Section2ListPage",
+    "_id": "0a363f72-cd74-4a99-b53c-3d987cffdb8c"
+  },
+  {
+    "Type": "Page",
+    "Title": "Cкрипін Роман",
+    "Icon": "/Assets/DataImages/menuitem-icon.png",
+    "Target": "CListPage",
+    "_id": "e71dd9d5-6b19-47a2-9632-a6ca578e8e97"
+  },
+  {
+    "Type": "Page",
+    "Title": "Андрушко Сергій",
+    "Icon": "/Assets/DataImages/menuitem-icon.png",
+    "Target": "Section3ListPage",
+    "_id": "e2113dce-2843-4811-9b59-e065cb79e266"
+  },
+  {
+    "Type": "Page",
+    "Title": "Гуменюк Наталя",
+    "Icon": "/Assets/DataImages/menuitem-icon.png",
+    "Target": "Section4ListPage",
+    "_id": "9eb43342-8418-40db-acb1-9ee8350bb06f"
+  },
+  {
+    "Type": "Page",
+    "Title": "Кутєпов Богдан",
+    "Icon": "/Assets/DataImages/menuitem-icon.png",
+    "Target": "Section5ListPage",
+    "_id": "d5eef55c-8918-40e8-a808-274ec47f6c60"
+  },
+  {
+    "Type": "Page",
+    "Title": "Баштовий Андрій",
+    "Icon": "/Assets/DataImages/menuitem-icon.png",
+    "Target": "Section6ListPage",
+    "_id": "1ec9c9be-fe94-4b84-a3f5-08db87f61d4e"
+  }
+]

@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN-DCE5RC7L9TT</Machine>
+    <WindowsUser>gleba</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>786e58c7-ccb8-46af-835e-e15908558c1d</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\HromadskeTV.WindowsPhone.exe">
+      <PackagePath>HromadskeTV.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.Common.winmd">
+      <PackagePath>Microsoft.Advertising.Mobile.Common.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.Display.winmd">
+      <PackagePath>Microsoft.Advertising.Mobile.Display.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI.winmd">
+      <PackagePath>Microsoft.Advertising.Mobile.UI.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\AppStudio.Common\bin\Debug\AppStudio.Common.dll">
+      <PackagePath>AppStudio.Common.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\AppStudio.DataProviders\bin\Debug\AppStudio.DataProviders.dll">
+      <PackagePath>AppStudio.DataProviders.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV\bin\Debug\HromadskeTV.dll">
+      <PackagePath>HromadskeTV.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\packages\HtmlAgilityPack.1.4.9\lib\portable-net45+netcore45+wpa81+wp8+MonoAndroid+MonoTouch\HtmlAgilityPack.dll">
+      <PackagePath>HtmlAgilityPack.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\packages\Microsoft.ApplicationInsights.0.17.1-beta\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
+      <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\packages\Microsoft.ApplicationInsights.WindowsApps.0.17.0\lib\wpa81\Microsoft.ApplicationInsights.Extensibility.Windows.dll">
+      <PackagePath>Microsoft.ApplicationInsights.Extensibility.Windows.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\packages\Microsoft.ApplicationInsights.PersistenceChannel.0.17.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.PersistenceChannel.dll">
+      <PackagePath>Microsoft.ApplicationInsights.PersistenceChannel.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\packages\Newtonsoft.Json.6.0.8\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI\Web\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.Mobile.UI\Web\bootstrap.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI\Themes\Generic.xbf">
+      <PackagePath>Microsoft.Advertising.Mobile.UI\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI\Web\Ormma.js">
+      <PackagePath>Microsoft.Advertising.Mobile.UI\Web\Ormma.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\ApplicationInsights.config">
+      <PackagePath>ApplicationInsights.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.Shared\Assets\Design\DarkGray.png">
+      <PackagePath>Assets\Design\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.Shared\Assets\Design\LightGray.png">
+      <PackagePath>Assets\Design\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.Shared\Assets\Design\MediumGray.png">
+      <PackagePath>Assets\Design\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.Shared\Assets\DataImages\FlipSquareTile.png">
+      <PackagePath>Assets\DataImages\FlipSquareTile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.Shared\Assets\DataImages\FlipWideTile.png">
+      <PackagePath>Assets\DataImages\FlipWideTile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.Shared\Assets\DataImages\menuitem-icon.png">
+      <PackagePath>Assets\DataImages\menuitem-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.Shared\Assets\ApplicationLogo.png">
+      <PackagePath>Assets\ApplicationLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.Shared\Assets\Design\Data.json">
+      <PackagePath>Assets\Design\Data.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.Shared\Assets\Design\TouchDevelopData.json">
+      <PackagePath>Assets\Design\TouchDevelopData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.Shared\Assets\Data\Section1.json">
+      <PackagePath>Assets\Data\Section1.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.Shared\Assets\Data\Section7.htm">
+      <PackagePath>Assets\Data\Section7.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\Controls\ErrorNotificationControl.xbf">
+      <PackagePath>Controls\ErrorNotificationControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\Styles\AppBarButtons.xbf">
+      <PackagePath>Styles\AppBarButtons.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\Styles\AppTheme.xbf">
+      <PackagePath>Styles\AppTheme.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\Styles\DefaultTheme.xbf">
+      <PackagePath>Styles\DefaultTheme.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\Controls\ConnectionNotificationControl.xbf">
+      <PackagePath>Controls\ConnectionNotificationControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\Controls\ImageViewer.xbf">
+      <PackagePath>Controls\ImageViewer.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\Controls\YouTubeViewer.xbf">
+      <PackagePath>Controls\YouTubeViewer.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\Views\TwitterListPage.xbf">
+      <PackagePath>Views\TwitterListPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\Views\YouTubeListPage.xbf">
+      <PackagePath>Views\YouTubeListPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\Views\YouTubeDetailPage.xbf">
+      <PackagePath>Views\YouTubeDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\Views\FacebookListPage.xbf">
+      <PackagePath>Views\FacebookListPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\Views\FacebookDetailPage.xbf">
+      <PackagePath>Views\FacebookDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\Views\Section1ListPage.xbf">
+      <PackagePath>Views\Section1ListPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\Views\Section2ListPage.xbf">
+      <PackagePath>Views\Section2ListPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\Views\CListPage.xbf">
+      <PackagePath>Views\CListPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\Views\Section3ListPage.xbf">
+      <PackagePath>Views\Section3ListPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\Views\Section4ListPage.xbf">
+      <PackagePath>Views\Section4ListPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\Views\Section5ListPage.xbf">
+      <PackagePath>Views\Section5ListPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\Views\Section6ListPage.xbf">
+      <PackagePath>Views\Section6ListPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\Views\Section7ListPage.xbf">
+      <PackagePath>Views\Section7ListPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\Styles\FontSizes.xbf">
+      <PackagePath>Styles\FontSizes.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\Styles\ButtonStyles.xbf">
+      <PackagePath>Styles\ButtonStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\Styles\GridView.xbf">
+      <PackagePath>Styles\GridView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\Styles\Layouts\DetailLayouts.xbf">
+      <PackagePath>Styles\Layouts\DetailLayouts.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\Styles\Layouts\ListLayouts.xbf">
+      <PackagePath>Styles\Layouts\ListLayouts.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\Styles\PlatformStyles.xbf">
+      <PackagePath>Styles\PlatformStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\HromadskeTV.WindowsPhone.xr.xml">
+      <PackagePath>HromadskeTV.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

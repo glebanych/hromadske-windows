@@ -1,0 +1,13 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\gleba\desktop\apps\hromadskesource\hromadsketv.windows\obj\debug\intermediatexaml\hromadsketv.windows.exe" HashGuid="6442cdce-e246-d7d3-a692-349a3e348ea3" />
+    <ReferenceAssembly PathName="c:\users\gleba\desktop\apps\hromadskesource\appstudio.common\bin\debug\appstudio.common.dll" HashGuid="bd9da5ef-6546-e971-dfa8-8622b588cb5e" />
+    <ReferenceAssembly PathName="c:\users\gleba\desktop\apps\hromadskesource\appstudio.dataproviders\bin\debug\appstudio.dataproviders.dll" HashGuid="ab4929d8-e5aa-8589-412b-dfcaaca1ee8d" />
+    <ReferenceAssembly PathName="c:\users\gleba\desktop\apps\hromadskesource\hromadsketv\bin\debug\hromadsketv.dll" HashGuid="55c60ab2-4dfc-d762-cd21-7ffcac197b7e" />
+    <ReferenceAssembly PathName="c:\users\gleba\desktop\apps\hromadskesource\packages\htmlagilitypack.1.4.9\lib\portable-net45+netcore45+wpa81+wp8+monoandroid+monotouch\htmlagilitypack.dll" HashGuid="365e4636-8cbf-8d2d-3790-d3267e801443" />
+    <ReferenceAssembly PathName="c:\users\gleba\desktop\apps\hromadskesource\packages\microsoft.applicationinsights.0.17.1-beta\lib\portable-win81+wpa81\microsoft.applicationinsights.dll" HashGuid="5dfb0ed7-8df3-4076-8bbf-2040cffa6cb5" />
+    <ReferenceAssembly PathName="c:\users\gleba\desktop\apps\hromadskesource\packages\microsoft.applicationinsights.windowsapps.0.17.0\lib\win81\microsoft.applicationinsights.extensibility.windows.dll" HashGuid="eb71cf82-71ce-b682-ebc8-e7a034700b13" />
+    <ReferenceAssembly PathName="c:\users\gleba\desktop\apps\hromadskesource\packages\microsoft.applicationinsights.persistencechannel.0.17.0\lib\portable-win81+wpa81\microsoft.applicationinsights.persistencechannel.dll" HashGuid="48138312-fac4-d31e-6cac-1799bead037e" />
+    <ReferenceAssembly PathName="c:\users\gleba\desktop\apps\hromadskesource\packages\newtonsoft.json.6.0.8\lib\netcore45\newtonsoft.json.dll" HashGuid="fd3dfcab-cf69-c796-78a2-2423dadb814b" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

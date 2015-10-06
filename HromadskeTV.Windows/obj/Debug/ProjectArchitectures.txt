@@ -1,0 +1,7 @@
+C:\Users\gleba\Desktop\Apps\HromadskeSource\AppStudio.Common\AppStudio.Common.csproj;neutral
+C:\Users\gleba\Desktop\Apps\HromadskeSource\AppStudio.Common\AppStudio.Common.csproj;neutral
+C:\Users\gleba\Desktop\Apps\HromadskeSource\AppStudio.DataProviders\AppStudio.DataProviders.csproj;neutral
+C:\Users\gleba\Desktop\Apps\HromadskeSource\AppStudio.DataProviders\AppStudio.DataProviders.csproj;neutral
+C:\Users\gleba\Desktop\Apps\HromadskeSource\AppStudio.DataProviders\AppStudio.DataProviders.csproj;neutral
+C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV.Windows\HromadskeTV.Windows.csproj;neutral
+C:\Users\gleba\Desktop\Apps\HromadskeSource\HromadskeTV\HromadskeTV.csproj;neutral

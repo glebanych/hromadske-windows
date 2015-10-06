@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package
+  xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10"
+  xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest"
+  xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10"
+  IgnorableNamespaces="uap mp">
+
+    <Identity Name="22748glebanych.HromadskeTV" Publisher="CN=C9040E3D-CD3A-44A3-B52F-886BB29C6309" Version="1.1.1.0" />
+
+    <mp:PhoneIdentity PhoneProductId="786e58c7-ccb8-46af-835e-e15908558c1d" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+
+    <Properties>
+        <DisplayName>Hromadske TV</DisplayName>
+        <PublisherDisplayName>glebanych</PublisherDisplayName>
+        <Logo>Assets\StoreLogo.png</Logo>
+    </Properties>
+
+    <Dependencies>
+        <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.10069.0" MaxVersionTested="10.0.10069.0" />
+    </Dependencies>
+
+    <Resources>
+        <Resource Language="x-generate"/>
+    </Resources>
+
+    <Applications>
+        <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="HromadskeTV.App">
+            <uap:VisualElements DisplayName="Hromadske TV"
+              Square150x150Logo="Assets\Logo.png"
+              Square44x44Logo="Assets\SmallLogo.png"
+              Description="Неофіційний клієнт Громадського ТБ. Твіти журналістів, відео и багато іншого контенту в одному додатку."
+              BackgroundColor="#303c4a">
+                <uap:SplashScreen Image="Assets\SplashScreen.png" />
+            </uap:VisualElements>
+        </Application>
+    </Applications>
+
+    <Capabilities>
+        <Capability Name="internetClient" />
+    </Capabilities>
+</Package>

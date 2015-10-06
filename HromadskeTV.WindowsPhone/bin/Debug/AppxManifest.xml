@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:build="http://schemas.microsoft.com/developer/appx/2012/build" IgnorableNamespaces="build">
+  <!--
+    ЭТОТ ФАЙЛ МАНИФЕСТА ПАКЕТА СОЗДАН ПРОЦЕССОМ СБОРКИ.
+
+    Изменения этого файла будут потеряны при его повторном создании. Чтобы исправить ошибки в этом файле, измените исходный файл .appxmanifest.
+
+ Дополнительные сведения о файлах манифестов приложений см. по адресу http://go.microsoft.com/fwlink/?LinkID=241727
+  -->
+  <Identity Name="22748glebanych.HromadskeTV" Publisher="CN=C9040E3D-CD3A-44A3-B52F-886BB29C6309" Version="1.1.1.0" ProcessorArchitecture="neutral" />
+  <mp:PhoneIdentity PhoneProductId="786e58c7-ccb8-46af-835e-e15908558c1d" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Properties>
+    <DisplayName>Hromadske TV</DisplayName>
+    <PublisherDisplayName>glebanych</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.1</OSMinVersion>
+    <OSMaxVersionTested>6.3.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="UK-UA" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="HromadskeTV.WindowsPhone.exe" EntryPoint="HromadskeTV.App">
+      <m3:VisualElements DisplayName="Hromadske TV" Description="Неофіційний клієнт Громадського ТБ. Твіти журналістів, відео и багато іншого контенту в одному додатку." Square150x150Logo="Assets\Logo.png" Square44x44Logo="Assets\SmallLogo.png" ForegroundText="light" BackgroundColor="transparent">
+        <m3:DefaultTile Wide310x150Logo="Assets\WideLogo.png" Square71x71Logo="Assets\Square71x71Logo.png" ShortName="Hromadske TV">
+          <m3:ShowNameOnTiles>
+            <m3:ShowOn Tile="square150x150Logo" />
+            <m3:ShowOn Tile="wide310x150Logo" />
+          </m3:ShowNameOnTiles>
+        </m3:DefaultTile>
+        <m3:SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="transparent" />
+        <m3:ApplicationView MinWidth="width320" />
+        <!--Used in XAML Designer. DO NOT REMOVE-->
+        <m3:InitialRotationPreference>
+          <m3:Rotation Preference="portrait" />
+        </m3:InitialRotationPreference>
+      </m3:VisualElements>
+    </Application>
+  </Applications>
+  <!-- Microphone capability required for TextToSpeech -->
+  <Capabilities>
+    <Capability Name="internetClientServer" />
+    <DeviceCapability Name="microphone" />
+  </Capabilities>
+  <Extensions>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>CLRHost.dll</Path>
+        <ActivatableClass ActivatableClassId="Microsoft.Advertising.Mobile.Display.Key35MSSharedLib1024" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Advertising.Mobile.UI.AdControl" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Advertising.Mobile.UI.UI_XamlTypeInfo.XamlMetaDataProvider" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+  </Extensions>
+  <build:Metadata>
+    <build:Item Name="CodeSharingProject" Value="248F659F-DAC5-46E8-AC09-60EC9FC95053" />
+    <build:Item Name="TargetFrameworkMoniker" Value="WindowsPhoneApp,Version=v8.1" />
+    <build:Item Name="VisualStudio" Version="12.0" />
+    <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Ultimate 2013" />
+    <build:Item Name="OperatingSystem" Version="10.0.10130.0 (fbl_impressive.150522-2224)" />
+    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="12.0.31101.0" />
+    <build:Item Name="ProjectGUID" Value="{6f9982ba-836f-4059-a2e8-cb46851cf8bf}" />
+    <build:Item Name="Microsoft.Windows.UI.Xaml.Build.Tasks.dll" Version="12.0.30501.0" />
+    <build:Item Name="BehaviorsXamlSDKManaged" Version="12.0" />
+    <build:Item Name="Microsoft.Advertising.Mobile.Display" Version="8.1" />
+    <build:Item Name="MakePri.exe" Version="6.3.9600.17298 (winblue.141024-1500)" />
+  </build:Metadata>
+</Package>
